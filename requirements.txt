@@ -10,3 +10,4 @@ pytrends
 python-dotenv
 webdriver-manager
 google-search-results
+textblob
