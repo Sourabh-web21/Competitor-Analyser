@@ -9,4 +9,4 @@ plotly
 pytrends
 python-dotenv
 webdriver-manager
-serpapi
+google-search-results
